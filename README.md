@@ -99,7 +99,7 @@ Coffee
 
 #### Step 2: Create Coffee Class & Push Feature Branch and Merge
 
-* __init__:
+pytest* __init__:
   * size
     * Require user to input
   * price
